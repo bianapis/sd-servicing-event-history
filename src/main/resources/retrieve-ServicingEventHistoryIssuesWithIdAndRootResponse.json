@@ -1,0 +1,15 @@
+{
+  "servicingSessionIssueRecord" : {},
+  "customerContactRecordReference" : "123054098",
+  "productionIssueType" : "support facility failure",
+  "productionIssueStatus" : "registered",
+  "servicingSessionIssueRecordReference" : "SAER7246245",
+  "productionIssueDiagnosis" : "several",
+  "servicingPositionSessionReference" : "SPSR72345",
+  "employeeBusinessUnitReference" : "EBU721345",
+  "customerServicingActivityEventHistoryReference" : "SAR723435",
+  "servicingPositionReference" : "L1234",
+  "productionIssueResolutionTask" : "there are no specifications",
+  "productionIssueRecord" : {},
+  "productionIssueDescription" : "unexpected error during installation"
+}

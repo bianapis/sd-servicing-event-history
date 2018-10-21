@@ -1,0 +1,9 @@
+{
+  "customerServicingActivityEventHistoryReference" : "SAR723435",
+  "servicingFacilityType" : "commission tracking",
+  "servicingFacilityInstanceReference" : "FIR123474",
+  "servicingFacilityRecord" : {},
+  "servicingSessionFacilityUseRecordReference" : "SAFR7534",
+  "servicingSessionFacilityUseRecord" : {},
+  "servicingFacilityReference" : "FR123456087"
+}

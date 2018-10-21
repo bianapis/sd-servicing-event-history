@@ -1,0 +1,11 @@
+{
+  "employeeBusinessUnitReference" : "EBU721345",
+  "servicingPositionAssignmentEventRecordReference" : "SAER7246245",
+  "customerServicingActivityEventHistoryReference" : "SAR723435",
+  "servicingPositionReference" : "L1234",
+  "dateTimeLocation" : "2020-11-22T22:00:00, Kolkata",
+  "servicingPositionActivityStatistics" : "wait time",
+  "servicingPositionActivityReport" : {},
+  "servicingPositionAssignmentEventRecord" : {},
+  "servicingPositionSessionReference" : "SPSR72345"
+}

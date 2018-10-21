@@ -1,0 +1,9 @@
+{
+  "employeeBusinessUnitReference" : "EBU721345",
+  "customerServicingActivityEventHistoryReference" : "SAR7246245",
+  "customerServicingActivityEventHistoryRecord" : {},
+  "customerServicingActivityEventHistoryReport" : {},
+  "servicingPositionReference" : "L1234",
+  "customerServicingActivityEventHistoryReportParameters" : "period",
+  "customerServicingActivityEventHistoryReportType" : "records extract"
+}

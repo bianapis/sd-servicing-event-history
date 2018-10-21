@@ -1,0 +1,19 @@
+{
+  "servicingSessionEventRecordReference" : "SSER7246245",
+  "sessionMechanism" : "phone",
+  "sessionStartEndTime" : "2020-12-20 23:02:56",
+  "dateTimeLocation" : "2020-11-22T22:00:00, Kolkata",
+  "servicingFacilityType" : "automatic",
+  "contactDialogueType" : "verified customer",
+  "servicingFacilityInstanceReference" : "123025078",
+  "customerContactReference" : "456789003",
+  "servicingPositionSessionReference" : "SPSR72345",
+  "contactDialogueLog" : "click-stream",
+  "servicingSessionEventRecord" : {},
+  "employeeBusinessUnitReference" : "EBU721345",
+  "contactDialogueScript" : "contactDialogueScript",
+  "customerServicingActivityEventHistoryReference" : "SAR723435",
+  "servicingPositionReference" : "L1234",
+  "contactDialogueRecord" : {},
+  "contactDialogueLogReference" : "456123489"
+}
